@@ -4,6 +4,8 @@
 
 This extension enables you to use ChatGPT custom system prompts to create your own custom assistant
 
+Note from Cyprien: I just added an option to wait until Enter is pressed to send the query to GPT.
+
 ![Screen shot](images/screenshot.png)
 
 Feel free to fork for a more domain specific assistant

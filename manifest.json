@@ -22,6 +22,14 @@
             "default_value": ""
         },
         {
+            "id": "wait_before_query",
+            "type": "select",
+            "options": [{"value": "0", "text": "False"}, {"value": "1", "text": "True"}],
+            "name": "Wait for Enter",
+            "description": "Wait until Enter is pressed to send the query to GPT",
+            "default_value": "0"
+        },
+        {
             "id": "model",
             "type": "input",
             "name": "OpenAI chat completion model",
